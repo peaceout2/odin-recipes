@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+    font-size: 18px;
+    
+    
+}
+
+
+.recipe {
+    width: 800px;
+    margin:auto;
+}
+
+button {
+    font-size:18px;
+    :hover pseudo-class
+}
+
+.food {
+    padding: 5px;
+}
+
